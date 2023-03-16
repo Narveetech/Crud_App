@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "instance": {
+    "url": "https://helixteamhub.cloud"
+  },
+  "company": {
+    "short_name": "narveetechnologies",
+    "uuid": "bf47f27e-265c-41e6-98c1-7f19504bcc93"
+  },
+  "project": {
+    "short_name": "usit",
+    "uuid": "e4b1eb4e-736e-4b01-a63a-bd6364fb69a2"
+  },
+  "repositories": [
+
+  ]
+}
